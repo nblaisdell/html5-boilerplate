@@ -1,1 +1,1 @@
-This site uses a heavily modified version of [HTML5 Boilerplate](http://html5boilerplate.com) and a not at all modified version of [Normalize.css](http://necolas.github.io/normalize.css/)
+This site uses a heavily modified version of [HTML5 Boilerplate](http://html5boilerplate.com) and a not at all modified version of [Normalize.css](http://necolas.github.io/normalize.css/) which can be updated.
